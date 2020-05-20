@@ -5,7 +5,7 @@ date: "5/20/2020"
 output: html_document
 ---
 
-## Click on this link to view processed HTML file
+# Click on this link to view processed HTML file
 https://apanarun.github.io/Prediction-Assignment-Writeup/
 
 ## Background
